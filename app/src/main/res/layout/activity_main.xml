@@ -15,15 +15,29 @@
         android:onClick="onClick"/>
 
     <Button
+        android:id="@+id/btn5"
+        android:text="选择上传本地文件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pickFile"/>
+
+    <Button
+        android:id="@+id/btn6"
+        android:text="下载文件"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="loadFile"/>
+
+    <Button
         android:id="@+id/btn3"
-        android:text="软件数据文件管理器"
+        android:text="下载文件管理"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="onClick"/>
 
     <Button
         android:id="@+id/btn4"
-        android:text="SD卡文件管理器"
+        android:text="SD卡文件查看"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="onClick"/>
