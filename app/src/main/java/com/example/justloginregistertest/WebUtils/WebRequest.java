@@ -20,7 +20,7 @@ public class WebRequest {
 
     //String url="http://192.168.4.11:8080/test/";//TD 5G
     String url="http://192.168.0.4:8080/test/";//LAB
-    String TAG = "请求内容：";
+    String TAG = "TAG";
 
     /**
      * 1.添加依赖

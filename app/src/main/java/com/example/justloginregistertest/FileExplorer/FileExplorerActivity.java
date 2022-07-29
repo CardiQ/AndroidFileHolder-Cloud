@@ -1,6 +1,5 @@
 package com.example.justloginregistertest.FileExplorer;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;
@@ -8,12 +7,9 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
-import android.os.Handler;
-import android.os.Message;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
@@ -23,7 +19,6 @@ import android.widget.Toast;
 import com.example.justloginregistertest.FileExpressActivity;
 import com.example.justloginregistertest.MainActivity;
 import com.example.justloginregistertest.R;
-import com.example.justloginregistertest.loginActivity;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -43,9 +38,6 @@ public class FileExplorerActivity extends AppCompatActivity {
 
     private int flag;
     private String inputText;
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

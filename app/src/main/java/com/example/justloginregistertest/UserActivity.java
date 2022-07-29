@@ -67,7 +67,7 @@ public class UserActivity extends AppCompatActivity implements View.OnClickListe
                 finish();
                 break;
             case R.id.button2:
-                intent = new Intent(this, loginActivity.class);
+                intent = new Intent(this, LoginActivity.class);
                 break;
         }
         startActivity(intent);

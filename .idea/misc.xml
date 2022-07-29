@@ -5,12 +5,13 @@
       <map>
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.112" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/drawable/selector_loginactivity_button.xml" value="0.112" />
-        <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_file_explorer.xml" value="0.24305555555555555" />
+        <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_file_explorer.xml" value="0.264" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_file_express.xml" value="0.1765625" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_login.xml" value="0.24114583333333334" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/activity_user.xml" value="0.2" />
+        <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/edittext_source.xml" value="0.19635416666666666" />
         <entry key="..\:/mycodeAndroid/JustLoginRegisterTest/app/src/main/res/layout/item_file_explorer.xml" value="0.2" />
       </map>
     </option>

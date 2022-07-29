@@ -133,7 +133,7 @@ public class FileWebMaster {
                 outputStream.write(data, 0, len);
                 currentLength += len;
                 //计算当前下载进度
-                Log.d("TAG", "下载 进度 = " + (int) (100 * currentLength / totalLength));
+                //Log.d("TAG", "下载 进度 = " + (int) (100 * currentLength / totalLength));
             }
             //下载完成，并返回保存的文件路径
             Log.d("TAG","下载完成 file.getAbsolutePath() = "+file.getAbsolutePath());
